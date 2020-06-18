@@ -1,6 +1,10 @@
 # Pulse Count
 
-An extension that adds a Pulse Count metric to digital measurements.
+An extension that adds Pulse Count metrics to digital measurements.
+- N<sub>p(+)</sub> is the number of positive pulses
+- N<sub>p(-)</sub> is the number of negative pulses
+
+![Pulse Count](files/pulse_count.png)
 
 ## Instructions
 1. Install this extension by clicking "Install"
